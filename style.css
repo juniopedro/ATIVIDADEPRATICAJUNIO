@@ -1,0 +1,59 @@
+body {
+    font-family:Arial;
+    margin:1;
+    padding:1;
+    text-align: center;
+    color: #f10202;
+    background: #f3f3b3;
+    }
+h1 {
+   font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+   font-style: italic;
+   
+
+
+   }
+
+nav {
+  background: color #cfcfc9;
+  color:#f10202;
+  text-align:center;
+  }
+
+nav ul {
+    list-style:none;
+    padding:0;
+  }
+
+nav ul li {
+  display: inline-block;  
+  margin-right: 20px;
+  color: #1d0dfa;  
+  text-align:center;
+  
+
+  }
+
+nav ul li a {
+    color:#1d0dfa;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+  }
+p {
+
+  color: #1d0dfa;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align:center;
+  text-align:justify;
+ 
+}
+div {
+  text-align:center;
+  object-position: 0cap;
+  margin: auto;
+  justify-content: center;
+
+}
+  
+  
